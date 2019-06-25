@@ -1,0 +1,4 @@
+{
+    "urlRealTime":"https://gvd-eci.firebaseio.com/.json",
+    "urlStorage": "gs://gvd-eci.appspot.com/carousel"
+}
